@@ -30,3 +30,6 @@
 10. Асинхронные хранилища (MMKV, AsyncStorage)
 11. Виды списков (проблемы и решения) ScrollView, FlatList, VirtualizedList, SectionList
 12. Навигация (вопрос с реф навигатором (решение без сверления)) (createNavigationContainerRef)
+
+### Полезное
+[300 вопросов](https://itvdn.com/ru/blog/article/300-js)
